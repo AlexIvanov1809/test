@@ -1,4 +1,4 @@
 function fn(n) {
-  n = 'smth'
+  n = 'smth!'
   return 'hello world' + n;
 }
